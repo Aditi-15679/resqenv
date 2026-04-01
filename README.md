@@ -274,7 +274,7 @@ docker run -p 7860:7860 resqenv
 ## 👤 Author
 
 **Aditi**
-Solo Participant – OpenEnv Hackathon
+Solo Participant –Hackathon
 
 ---
 
