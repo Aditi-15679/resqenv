@@ -1,0 +1,8 @@
+name: resqenv
+description: Disaster response RL environment
+entry_point: env:ResQEnv
+
+tasks:
+  - easy
+  - medium
+  - hard
